@@ -4,33 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="717b8588-384b-4134-9631-81be30f9d02f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HeritageJava/HeritageJava.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HeritageJava/src/com/formation/epita/abstractclass/Centaure.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HeritageJava/src/com/formation/epita/abstractclass/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HeritageJava/src/com/formation/epita/exceptions/Except.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HeritageJava/src/com/formation/epita/exceptions/FactorielleException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HeritageJava/src/com/formation/epita/exceptions/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HeritageJava/src/com/formation/epita/heritage/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HeritageJava/src/com/formation/epita/heritage/Train.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HeritageJava/src/com/formation/epita/heritage/Vehicule.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HeritageJava/src/com/formation/epita/heritage/Velo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/InterfaceJava/InterfaceJava.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/InterfaceJava/src/com/formation/epita/interfacejava/AvecChauffage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/InterfaceJava/src/com/formation/epita/interfacejava/AvecClimatisation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/InterfaceJava/src/com/formation/epita/interfacejava/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/InterfaceJava/src/com/formation/epita/interfacejava/Maison.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Objrtjava.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/formation/epita/Enfant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/formation/epita/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/formation/epita/Parent.java" afterDir="false" />
-    </list>
+    <list default="true" id="717b8588-384b-4134-9631-81be30f9d02f" name="Changes" comment="Cpmmit du 25-03" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -79,6 +53,14 @@
       <option name="presentableId" value="Default" />
       <updated>1679651465125</updated>
     </task>
+    <task id="LOCAL-00001" summary="Cpmmit du 25-03">
+      <created>1679756063744</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1679756063744</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -116,5 +98,9 @@
         <entry key="b9815b58-6049-4cd6-af41-d84ecb4a9f05" value="TOOL_WINDOW" />
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Cpmmit du 25-03" />
+    <option name="LAST_COMMIT_MESSAGE" value="Cpmmit du 25-03" />
   </component>
 </project>
