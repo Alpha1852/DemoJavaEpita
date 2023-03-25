@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HeritageJava/HeritageJava.iml" filepath="$PROJECT_DIR$/HeritageJava/HeritageJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InterfaceJava/InterfaceJava.iml" filepath="$PROJECT_DIR$/InterfaceJava/InterfaceJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Objrtjava.iml" filepath="$PROJECT_DIR$/Objrtjava.iml" />
+    </modules>
+  </component>
+</project>
