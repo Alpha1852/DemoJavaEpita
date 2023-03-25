@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="717b8588-384b-4134-9631-81be30f9d02f" name="Changes" comment="Cpmmit du 25-03" />
+    <list default="true" id="717b8588-384b-4134-9631-81be30f9d02f" name="Changes" comment="Cpmmit du 25-03  rr">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +22,19 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="51b441bd-797c-4f81-be60-6e2943a84ffe" />
+        <option name="url" value="https://github.com/Alpha1852/DemoJavaEpita" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -60,7 +75,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679756063744</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Cpmmit du 25-03  rr">
+      <created>1679756139316</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1679756139316</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -101,6 +123,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Cpmmit du 25-03" />
-    <option name="LAST_COMMIT_MESSAGE" value="Cpmmit du 25-03" />
+    <MESSAGE value="Cpmmit du 25-03  rr" />
+    <option name="LAST_COMMIT_MESSAGE" value="Cpmmit du 25-03  rr" />
   </component>
 </project>
